@@ -6,4 +6,8 @@ Indian-American aerospace engineer Swati Mohan, whoplayed a key role in the succ
 Modification in File 1
 This is Comparison lecture
 
+<<<<<<< Updated upstream
 This is Stash lecture, Change in Main File 
+=======
+This is Stash lecture, Change in File 1
+>>>>>>> Stashed changes
